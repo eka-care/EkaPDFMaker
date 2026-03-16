@@ -1,13 +1,13 @@
 {
-  "originHash" : "e9e99c763f4651b2a6676dc4781caf9f3b78812f7e6e03a11d86bdf4af818867",
+  "originHash" : "61d9e81292f1f45bdf11e52d55a2b032c354647ba5ae6f4563859251f96dbb0d",
   "pins" : [
     {
       "identity" : "ekaui",
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:eka-care/EkaUI.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "0aad3d9b12c21616f222bf05f4651acce2ac1fcb"
+        "revision" : "1dcf67f7cbb85a2366f38e0571ab5ef836fc80cc",
+        "version" : "1.0.5"
       }
     },
     {
@@ -24,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/JonasGessner/JGProgressHUD",
       "state" : {
-        "branch" : "master",
-        "revision" : "6336c426fb147ee19c15252eaf363f29720c3eb5"
+        "revision" : "78d7cd35f1d90ff74fd82e486f2cbe4b24be8cf9",
+        "version" : "2.2.0"
       }
     },
     {
