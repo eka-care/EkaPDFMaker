@@ -1,5 +1,5 @@
 {
-  "originHash" : "61d9e81292f1f45bdf11e52d55a2b032c354647ba5ae6f4563859251f96dbb0d",
+  "originHash" : "84d7f767b490f187114aba445b7a278aff0dbe909d9e69aa73c2d72d0f4dfe60",
   "pins" : [
     {
       "identity" : "ekaui",
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:eka-care/PatientUtility.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "a7d9e55b4d4439b43b9cccd19c549c4a8dfa80b7"
+        "revision" : "eaa7295aff65aaa149a9cf157f55fb124a8356ac",
+        "version" : "1.2.0"
       }
     },
     {
