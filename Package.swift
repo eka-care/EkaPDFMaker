@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
       .package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", .upToNextMajor(from: "5.0.2")),
       .package(url: "git@github.com:eka-care/EkaUI.git", from: "1.0.5"),
-      .package(url: "git@github.com:eka-care/PatientUtility.git", branch: "main")
+      .package(url: "git@github.com:eka-care/PatientUtility.git", from: "1.2.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
